@@ -31,3 +31,28 @@ a:hover {
 		width: 900px;
 	}
 }
+
+.logo-container {
+	display: flex;
+}
+
+.tutorial {
+	align-self: flex-end;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
+.logo {
+	margin-bottom: 5px;
+}
+
+.image {
+	width: 100%;
+	height: auto;
+}
+
+footer {
+	margin-top: 30px;
+	padding: 10px;
+	border-top: 1px solid #ccc;
+}
